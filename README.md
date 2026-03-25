@@ -8,8 +8,7 @@
 ---
 
 ## Project Overview
-This project is a Digital Literacy Portfolio created as part of the CSE0001 course. The objective of this project is to understand and demonstrate essential digital skills required for students, including online safety, professional presence, communication, and awareness of cyber threats.
-
+This project is a Digital Literacy Portfolio. The objective of this project is to understand and demonstrate essential digital skills required for students.
 The project is organized into five tasks, each focusing on a different aspect of digital literacy.
 
 ---
